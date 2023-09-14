@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    body{
+        background: red;
+    }
+    html{
+        font-size: 8px;
+    }
+    .middle-section .middle{
+        display: flex;
+        flex-direction: column;
+        height: 35rem;
+    }
+    .middle-section .middle
+}
